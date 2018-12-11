@@ -1,2 +1,2 @@
 # Spring-Students-API
-University project: Spring API with JPA
+University project: Spring API with JPA & Derby
